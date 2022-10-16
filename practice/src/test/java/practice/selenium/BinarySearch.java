@@ -36,3 +36,4 @@ public static void main(String[] args) {
 		System.out.println(Arrays.binarySearch(a, 1));
 	}	
 }
+//The file Has Been Commited Succesfully
